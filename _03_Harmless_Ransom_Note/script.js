@@ -1,5 +1,5 @@
 /**
- *  Harmless Ransom Note.
+ *  Harmless Ransom Note
  */
 
 function harmlessRansomNote(noteText, magazineText) {
